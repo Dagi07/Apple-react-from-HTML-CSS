@@ -1,4 +1,7 @@
-import React from 'react'
+import './CSS/header.css'
+import logo from "./images/icons/logo.png";
+import searchicon from "./images/icons/search-icon.png"
+import cart from "./images/icons/cart.png"
 
 function Header() {
     return (
@@ -6,7 +9,7 @@ function Header() {
             <nav>
                 <ul>
                     <li>
-                        <a href="#"><img src="images/icons/logo.png" alt="" /></a>
+                        <a href="#"><img src={logo} alt="" /></a>
                     </li>
                     <li><a href="#">Mac</a></li>
                     <li><a href="#">iPad</a></li>
@@ -16,10 +19,10 @@ function Header() {
                     <li><a href="#">Music</a></li>
                     <li><a href="#">Support</a></li>
                     <li>
-                        <a href="#"><img src="images/icons/search-icon.png" alt="" /></a>
+                        <a href="#"><img src={searchicon} alt="" /></a>
                     </li>
                     <li>
-                        <a href="#"><img src="images/icons/cart.png" alt="" /></a>
+                        <a href="#"><img src={cart} alt="" /></a>
                     </li>
                 </ul>
             </nav>
