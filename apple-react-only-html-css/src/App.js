@@ -6,6 +6,7 @@ import Watchsec from "./components/Watchsec";
 import Tvandairpods from "./components/Tvandairpods";
 import Cardandarcade from "./components/Cardandarcade";
 import Footer from "./components/Footer";
+import "./app.css"
 
 
 function App() {
