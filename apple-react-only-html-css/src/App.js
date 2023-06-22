@@ -5,6 +5,7 @@ import MacSection from "./components/MacSection";
 import Watchsec from "./components/Watchsec";
 import Tvandairpods from "./components/Tvandairpods";
 import Cardandarcade from "./components/Cardandarcade";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <Watchsec />
       <Tvandairpods />
       <Cardandarcade />
+      <Footer />
     </div>
   );
 }
