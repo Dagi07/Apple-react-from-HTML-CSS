@@ -4,27 +4,27 @@ import './CSS/card-and-arcade.css'
 
 function Cardandarcade() {
     return (
-        <section class="card-and-arcade">
-            <div class="card">
-                <div class="card-wrapper">
+        <section ClassName="card-and-arcade">
+            <div ClassName="card">
+                <div ClassName="card-wrapper">
                     <img src={applecardlogo} alt="" />
                     <p id="subhead-price">
                         Get 3% Daily Cash on purchases from Apple using Apple Card.
                     </p>
-                    <p class="learnMore">
-                        <span class="lm"><a href="#">Learn more </a></span>
-                        <span class="buy"><a href="#">Apply now </a></span>
+                    <p ClassName="learnMore">
+                        <span ClassName="lm"><a href="#">Learn more </a></span>
+                        <span ClassName="buy"><a href="#">Apply now </a></span>
                     </p>
                 </div>
             </div>
-            <div class="arcade">
-                <div class="arcade-wrapper">
+            <div ClassName="arcade">
+                <div ClassName="arcade-wrapper">
                     <h2><img src={logo} alt="" />Arcade</h2>
                     <p id="subhead">Play extraordinary.</p>
                     <p id="subhead">Find it on the App Store.</p>
-                    <p class="learnMore">
-                        <span class="lm"><a href="#">Learn more </a></span>
-                        <span class="buy"
+                    <p ClassName="learnMore">
+                        <span ClassName="lm"><a href="#">Learn more </a></span>
+                        <span ClassName="buy"
                         ><a href="#">Try it free<sup>2</sup> </a></span
                         >
                     </p>
