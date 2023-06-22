@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.mac-sec {
+  text-align: center;
+  /* height: 100vh; */
+  padding: 25px 0;
+  /* font-size: 35px; */
+  /* font-weight: bold; */ /* not a good idea */
+  background-color: #fafafa;
+}
+
+.mac-pro-wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  /* background-color: red; */
+}
+
+.mac-sec .model {
+  font-size: 0.85em;
+}
+
+.mac-pro-wrapper h2 {
+  font-size: 56px;
+  font-weight: 700;
+}
+
+/* .mac-sec .description {
+  font-size: 2em;
+} */
+
+/* .learnMore {
+  margin: 15px auto 20px;
+}
+
+.lm {
+  margin-right: 20px;
+  padding-left: 10px;
+}
+
+.buy {
+  margin-left: 20px;
+}
+
+.learnMore a {
+  font-size: 0.5em;
+  color: #06c;
+  text-decoration: none;
+}
+
+.learnMore a:hover {
+  color: #000;
+} */
+
+.mac-img-wrapper {
+  margin-top: 35px;
+  width: 100%;
+}
+
+/* .mac-sec img {
+  width: 100%;
+} */
