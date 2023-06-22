@@ -3,6 +3,7 @@ import I11pro from "./components/I11pro";
 import Ieleven from "./components/Ieleven";
 import MacSection from "./components/MacSection";
 import Watchsec from "./components/Watchsec";
+import Tvandairpods from "./components/Tvandairpods";
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
       <I11pro />
       <Ieleven />
       <Watchsec />
+      <Tvandairpods />
     </div>
   );
 }

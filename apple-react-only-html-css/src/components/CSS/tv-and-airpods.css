@@ -1,0 +1,90 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.tv-and-airpods-sec {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1%;
+  height: 580px;
+}
+
+.tv,
+.airpods {
+  background-color: black;
+  color: white;
+  width: 49.55%;
+  padding-top: 54px;
+  text-align: center;
+}
+
+.airpods {
+  background-image: url(../images/home/air-pods.jpg);
+  color: #fff;
+  background-size: initial;
+  background-color: #000;
+  background-position: bottom;
+  background-repeat: no-repeat;
+}
+
+.tv-wrapper,
+.airpods-wrapper {
+  text-align: center;
+}
+
+.airpods-wrapper {
+  margin-right: -60px;
+}
+
+.tv img {
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
+}
+
+/* .tv img:nth-of-type(1) {
+  width: 150px;
+} */
+
+.space-container {
+  height: 300px;
+}
+
+#trailer {
+  font-size: 29px;
+  margin-top: 10px;
+}
+
+.airpods-wrapper h2 {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.airpods img {
+  width: 200px;
+  margin-top: 26px;
+}
+
+.airpods-wrapper #subhead {
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+/* .learnMore {
+  margin: 15px auto 20px;
+}
+
+.lm {
+  margin-right: 20px;
+  padding-left: 10px;
+}
+
+.buy {
+  margin-left: 20px;
+}
+
+.learnMore a {
+  font-size: 27.25px;
+  color: rgb(56, 199, 247);
+  text-decoration: none;
+} */
