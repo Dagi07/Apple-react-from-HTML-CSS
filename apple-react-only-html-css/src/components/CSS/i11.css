@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.i11 {
+  height: 580px;
+  background-image: url(../images/home/iphone11-bg.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  padding-top: 75px;
+}
+
+.i11-wrapper {
+  width: 1500px;
+  margin: auto;
+  text-align: center;
+}
+
+.i11-wrapper h2 {
+  font-size: 56px;
+  font-weight: 700;
+}
+
+.i11-wrapper #subhead {
+  font-size: 41px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+/* .i11-wrapper #price {
+  font-size: 28px;
+  color: rgb(83, 78, 72);
+  opacity: 85%;
+  margin: 12px 0 25px;
+} */
+
+/* .learnMore {
+  margin: 15px auto 20px;
+}
+
+.lm {
+  margin-right: 20px;
+  padding-left: 10px;
+}
+
+.buy {
+  margin-left: 20px;
+}
+
+.learnMore a {
+  font-size: 26.25px;
+  color: rgb(56, 199, 247);
+  text-decoration: none;
+} */

@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.i11-pro-sec {
+  height: 580px;
+  background-image: url("../images/home/iphone11-pro-bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  text-align: center;
+  color: white;
+  padding: 65px 20px;
+}
+
+.i11pro-wrapper {
+  width: 1500px;
+  margin: auto;
+  text-align: center;
+}
+
+.i11pro-wrapper h2 {
+  font-size: 56px;
+  font-weight: 700;
+}
+
+/* .i11pro-wrapper #camdisper {
+  font-size: 41px;
+  margin-top: 10px;
+} */
+
+/* .i11pro-wrapper #price {
+  font-size: 1em;
+  color: #86868b; */
+/* opacity: 60%; */
+/* margin: 10px 0 0;
+} */
+
+/* .learnMore {
+  margin: 15px auto 20px;
+}
+
+.lm {
+  margin-right: 20px;
+  padding-left: 10px;
+}
+
+.buy {
+  margin-left: 20px;
+} */
+
+/* .learnMore a {
+  font-size: 26.25px;
+  color: rgb(56, 199, 247);
+  text-decoration: none;
+} */
+
+/* .i11pro-img-wrapper img {
+  max-width: 100%;
+} */
