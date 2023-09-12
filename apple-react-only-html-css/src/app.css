@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+body {
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.description {
+  font-size: 1.5em;
+  /* padding: 10px 0; */
+}
+
+#price {
+  font-size: 1em;
+  color: #86868b;
+  /* opacity: 60%; */
+  margin: 10px 0 0;
+}
+
+.learnMore {
+  /* margin: 15px auto 20px; */
+}
+
+.lm {
+  margin-right: 20px;
+  padding-left: 10px;
+}
+
+.buy {
+  margin-left: 20px;
+}
+
+.learnMore a {
+  font-size: 1em;
+  color: #06c;
+  text-decoration: none;
+}
+
+.learnMore a:hover {
+  color: #000;
+}
+
+.learnMore a::after {
+  font-family: "FontAwesome";
+  content: "\f105";
+  padding-left: 10px;
+  font-weight: 900;
+}

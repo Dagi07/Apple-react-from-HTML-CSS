@@ -1,0 +1,92 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.card-and-arcade {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 1%;
+  height: 580px;
+}
+
+.card,
+.arcade {
+  width: 49.55%;
+  padding-top: 54px;
+}
+
+.card {
+  /* background-color: rgb(240, 240, 240); */
+  background-image: url(../images/home/apple-card.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-wrapper {
+  width: 450px;
+  margin-left: 25px;
+  text-align: center;
+}
+
+/* .card-wrapper img {
+  width: 350px;
+} */
+
+#subhead-price {
+  font-size: 20px;
+  padding: 10px;
+}
+
+/* .learnMore {
+  margin: 15px auto 20px;
+}
+
+.lm {
+  margin-right: 20px;
+  padding-left: 10px;
+}
+
+.buy {
+  margin-left: 20px;
+}
+
+.learnMore a {
+  font-size: 27.25px;
+  color: rgb(56, 199, 247);
+  text-decoration: none;
+} */
+
+.arcade {
+  background-color: rgb(74, 110, 19);
+  color: white;
+  text-align: center;
+}
+
+/* .arcade-wrapper {
+  width: 550px;
+  background: red;
+} */
+
+.arcade-wrapper img {
+  width: 30px;
+}
+
+.arcade-wrapper h2 {
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.arcade-wrapper #subhead {
+  font-size: 20px;
+}
+
+.arcade-wrapper a {
+  color: white;
+  margin-top: 15px;
+}
+
+.arcade-wrapper .learnMore sup {
+  font-size: 17px;
+}
